@@ -1,0 +1,6 @@
+{
+  "name": "Personal Joint",
+  "description": "Enjoy authentic Nigerian pepper soup, fresh ingredients and delicious local meals at Personal Joint.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
